@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: WOHH
-image: /img/home-jumbotron.jpg
+image: /img/logo2.png
 heading: WOHH
 subheading: Support sudanese community
 mainpitch:
