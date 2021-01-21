@@ -23,11 +23,11 @@ const Navbar = class extends React.Component {
         // set the class in state for the navbar accordingly
         this.state.active
           ? this.setState({
-              navBarActiveClass: 'is-active',
-            })
+            navBarActiveClass: 'is-active',
+          })
           : this.setState({
-              navBarActiveClass: '',
-            })
+            navBarActiveClass: '',
+          })
       }
     )
   }
@@ -63,18 +63,18 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 About
               </Link>
-              <Link className="navbar-item" to="/products">
+              {/* <Link className="navbar-item" to="/products">
                 Products
-              </Link>
+              </Link> */}
               <Link className="navbar-item" to="/blog">
-                Blog
+                News
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
+              {/* <Link className="navbar-item" to="/contact/examples">
                 Form Examples
-              </Link>
+              </Link> */}
             </div>
             <div className="navbar-end has-text-centered">
               <a
