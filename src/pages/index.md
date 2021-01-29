@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: WOHH
-image: /img/logo2.png
+image: /img/logo_new.png
 heading: WOHH
 subheading: Support sudanese community
 mainpitch:
