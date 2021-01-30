@@ -3,7 +3,7 @@ templateKey: index-page
 title: WOHH
 image: /img/logo_new.png
 heading: WOHH
-subheading: Support sudanese community
+subheading: Project Rebuilding Rebuilding Lives and Communities
 mainpitch:
   title: Who we are?
   description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -26,6 +26,10 @@ intro:
         accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
         illo inventore veritatis et quasi architecto beatae vitae dicta sunt
         explicabo. "
+    - image: /img/logo_new.png
+      text: Project Rebuild is a trading name of Wings of Hope for Homeland registered
+        in England & Wales number 12938186. 60 Bell Street, London NW1 6SP , UK
+        Tel +447411974831 email.projectrebuild@mail.com
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
