@@ -1,33 +1,56 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Announcing Project Rebuild for Sudan
+date: 2021-02-01T11:20:11.078Z
+description: "To marshal the resources of the Sudanese Diaspora to build the
+  capacity and resilience of disaster prone and affected communities and help
+  muster their inherent capacities and initiative to overcome their
+  after-effects and safeguard against future external shocks. We, A HEART FOR
+  SUDAN, a group in the Diaspora of concerned Sudanese from United Kingdom,
+  United States, Australia and Sudan are announcing the launch of our Project
+  Rebuild organisation, a civil society initiative, aimed at rebuilding lives
+  and communities in Sudan in the wake of the devastating floods that
+  overwhelmed the country this past rainy season. It has been a disaster that
+  blighted many lives and uprooted families and shattered entire communities,
+  and its ripple effects are likely to seed long-term and far-reaching endemic
+  economic and health consequences, which can only be averted by the concerted
+  assistance, and targeted programmes of local capacity-building, up-skilling
+  and the transfer of appropriate knowledge and technologies. Although there are
+  excellent efforts already underway by Sudanese working abroad, providing much
+  needed financial support for those affected, Project Rebuild seeks to go
+  beyond traditional models for disaster relief and assistance for our people.
+  Project Rebuild initiative will focus on developing programmes and
+  interventions that seeks structural solutions to our disaster-ridden and
+  fragile communities back home. It is a method of assistance, which aims to
+  provide the tools for and the means to those communities to develop skills and
+  knowledge locally to avert disasters and deal with their its aftermaths. And
+  this we intend to foster through targeted skill and knowledge transfer and the
+  building the local capacities to withstand natural disasters and external
+  shocks. Our ultimate aim is bolstering the local communities’ resilience and
+  to develop their capacity to utilize the combined resources of local wisdom,
+  social capital, emergency aid and financial assistance efficiently,
+  sustainably with the minimum external encroachment and intrusion. Our
+  engagement model will be based on working in accord with the self-activity and
+  local initiative where local grass roots participation and feedback in project
+  development and implementation is a key measure of success. We call upon all
+  Sudanese abroad to join us in this noble effort, particularly those who have
+  the means, skills and the spare time to help. What you can do, at present, to
+  help. Contact us with: -Your contact details to register your interest to be
+  part of this initiative. - Urge qualified young people in your family or group
+  of friends also to join. - If you live in Sudan indicate your interest to
+  volunteer for this initiative. - Pledge your readiness to contribute
+  financially to the initiative. - Pledge your readiness to organise events to
+  promote the work of the initiative. - Pledge your readiness to work as a
+  volunteer of with affected communities in Sudan."
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/logo_new.png
 tags:
-  - flavor
-  - tasting
+  - Announcing Project Rebuild for Sudan
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Announcing Project Rebuild for Sudan](/img/logo_new.png "Announcing Project Rebuild for Sudan")
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+<!--StartFragment-->
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Our mission and vision: To marshal the resources of the Sudanese Diaspora to build the capacity and resilience of disaster prone and affected communities and help muster their inherent capacities and initiative to overcome their after-effects and safeguard against future external shocks. We, A HEART FOR SUDAN, a group in the Diaspora of concerned Sudanese from United Kingdom, United States, Australia and Sudan are announcing the launch of our Project Rebuild organisation, a civil society initiative, aimed at rebuilding lives and communities in Sudan in the wake of the devastating floods that overwhelmed the country this past rainy season. It has been a disaster that blighted many lives and uprooted families and shattered entire communities, and its ripple effects are likely to seed long-term and far-reaching endemic economic and health consequences, which can only be averted by the concerted assistance, and targeted programmes of local capacity-building, up-skilling and the transfer of appropriate knowledge and technologies. Although there are excellent efforts already underway by Sudanese working abroad, providing much needed financial support for those affected, Project Rebuild seeks to go beyond traditional models for disaster relief and assistance for our people. Project Rebuild initiative will focus on developing programmes and interventions that seeks structural solutions to our disaster-ridden and fragile communities back home. It is a method of assistance, which aims to provide the tools for and the means to those communities to develop skills and knowledge locally to avert disasters and deal with their its aftermaths. And this we intend to foster through targeted skill and knowledge transfer and the building the local capacities to withstand natural disasters and external shocks. Our ultimate aim is bolstering the local communities’ resilience and to develop their capacity to utilize the combined resources of local wisdom, social capital, emergency aid and financial assistance efficiently, sustainably with the minimum external encroachment and intrusion. Our engagement model will be based on working in accord with the self-activity and local initiative where local grass roots participation and feedback in project development and implementation is a key measure of success. We call upon all Sudanese abroad to join us in this noble effort, particularly those who have the means, skills and the spare time to help. What you can do, at present, to help. Contact us with: -Your contact details to register your interest to be part of this initiative. - Urge qualified young people in your family or group of friends also to join. - If you live in Sudan indicate your interest to volunteer for this initiative. - Pledge your readiness to contribute financially to the initiative. - Pledge your readiness to organise events to promote the work of the initiative. - Pledge your readiness to work as a volunteer of with affected communities in Sudan.
 
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+<!--EndFragment-->
