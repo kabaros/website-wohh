@@ -43,11 +43,11 @@ description: "To marshal the resources of the Sudanese Diaspora to build the
   promote the work of the initiative. - Pledge your readiness to work as a
   volunteer of with affected communities in Sudan."
 featuredpost: false
-featuredimage: /img/logo_new.png
+featuredimage: /img/pic3.jpeg
 tags:
   - Announcing Project Rebuild for Sudan
 ---
-![Announcing Project Rebuild for Sudan](/img/logo_new.png "Announcing Project Rebuild for Sudan")
+![Announcing Project Rebuild for Sudan](/img/pic2.jpeg "Announcing Project Rebuild for Sudan")
 
 <!--StartFragment-->
 
