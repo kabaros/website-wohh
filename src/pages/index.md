@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: WOHH
-image: /img/logo_new.png
-heading: WOHH
-subheading: Project Rebuilding Rebuilding Lives and Communities
+title: Project Rebuild
+image: /img/logo_small.png
+heading: Project Rebuild
+subheading: Rebuilding Lives and Communities
 mainpitch:
-  title: "Our mission and vision:"
+  title: "Our mission and vision"
   description: "To marshal the resources of the Sudanese Diaspora to build the
     capacity and resilience of disaster prone and affected communities and help
     muster their inherent capacities and initiative to overcome their
@@ -51,7 +51,8 @@ description: "Our mission and vision:"
 intro:
   blurbs:
     - image: /img/logo_new.png
-      text: Project Rebuild is a trading name of Wings of Hope for Homeland registered
+      text:
+        Project Rebuild is a trading name of Wings of Hope for Homeland registered
         in England & Wales number 12938186. 60 Bell Street, London NW1 6SP , UK
         Tel +447411974831 email.projectrebuild@mail.com
   heading: Project Rebuilding Rebuilding Lives and Communities
