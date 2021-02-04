@@ -5,7 +5,7 @@ image: /img/logo_small.png
 heading: Project Rebuild
 subheading: Rebuilding Lives and Communities
 mainpitch:
-  title: "Our mission and vision"
+  title: Our mission and vision
   description: "To marshal the resources of the Sudanese Diaspora to build the
     capacity and resilience of disaster prone and affected communities and help
     muster their inherent capacities and initiative to overcome their
@@ -50,22 +50,23 @@ mainpitch:
 description: "Our mission and vision:"
 intro:
   blurbs:
-    - image: /img/logo_new.png
-      text:
-        Project Rebuild is a trading name of Wings of Hope for Homeland registered
-        in England & Wales number 12938186. 60 Bell Street, London NW1 6SP , UK
-        Tel +447411974831 email.projectrebuild@mail.com
+    - image: /img/pic1.jpeg
+      text: Project Rebuilding Rebuilding Lives and Communities
   heading: Project Rebuilding Rebuilding Lives and Communities
-  description: "\n"
+  description: |-
+    
+    Project Rebuilding Rebuilding Lives and Communities
 main:
   heading: Project Rebuilding Rebuilding Lives and Communities
-  description: "\n"
+  description: |-
+    
+    Project Rebuilding Rebuilding Lives and Communities
   image1:
     alt: Project Rebuilding Rebuilding Lives and Communities
-    image: /img/logo_new.png
+    image: /img/pic2.jpeg
   image2:
     alt: Project Rebuilding Rebuilding Lives and Communities
-    image: /img/logo_new.png
+    image: /img/pic3.jpeg
   image3:
     alt: Project Rebuilding Rebuilding Lives and Communities
     image: /img/logo_new.png
