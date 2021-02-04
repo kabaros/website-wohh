@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Project Rebuild
-image: /img/logo_small.png
+image: /img/pic3.jpeg
 heading: Project Rebuild
 subheading: Rebuilding Lives and Communities
 mainpitch:
